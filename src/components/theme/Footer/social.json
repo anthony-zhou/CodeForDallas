@@ -1,26 +1,26 @@
 [
   {
     "id": 0,
-    "name": "Telegram",
-    "link": "https://t.me/smakosh",
-    "icon": "/icons/telegram.svg"
-  },
-  {
-    "id": 1,
     "name": "Github",
-    "link": "https://github.com/smakosh",
+    "link": "https://github.com/anthony-zhou",
     "icon": "/icons/github.svg"
   },
   {
+    "id": 1,
+    "name": "Twitter",
+    "link": "https://twitter.com/code4dallas",
+    "icon": "/icons/twitter.svg"
+  },
+  {
     "id": 2,
-    "name": "StackOverflow",
-    "link": "https://stackoverflow.com/users/story/7396786",
-    "icon": "/icons/stackoverflow.svg"
+    "name": "Meetup",
+    "link": "https://www.meetup.com/Code-for-Dallas/",
+    "icon": "/icons/meetup.svg"
   },
   {
     "id": 3,
-    "name": "Twitter",
-    "link": "https://twitter.com/smakosh",
-    "icon": "/icons/twitter.svg"
+    "name": "Slack",
+    "link": "https://join.slack.com/t/code-for-dallas/shared_invite/zt-ewhirc6r-rJEECLn318yHDZ0ck5fleA",
+    "icon": "/icons/slack.svg"
   }
 ]
