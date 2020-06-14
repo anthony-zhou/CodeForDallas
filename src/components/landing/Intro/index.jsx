@@ -8,7 +8,6 @@ import { Wrapper, IntroWrapper, Details, Thumbnail } from './styles';
 
 export const Intro = () => (
   <Wrapper>
-    <Header />
     <IntroWrapper as={Container}>
       <Details>
         <h1>At the intersection of technology and government.</h1>
