@@ -4,13 +4,16 @@ import { Intro, JoinUs, Contact, Projects, About, Team, Events } from 'component
 
 export default () => (
   <Layout>
-    <SEO />
-    <Intro />
-    <About />
-    <Team />
-    <Projects />
-    <Events />
-    <JoinUs />
-    <Contact />
+      <SEO />
+      <div id="container">
+
+      <Intro />
+      <About />
+      <Team />
+      <Projects />
+      <Events />
+      <JoinUs />
+      <Contact />
+    </div>
   </Layout>
 );

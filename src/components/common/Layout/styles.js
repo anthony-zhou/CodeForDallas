@@ -2,6 +2,10 @@ import { createGlobalStyle } from 'styled-components';
 
 export const Global = createGlobalStyle`
   html {
+    #container {
+      margin-top: 10vh;
+    }
+    
     font-family: 'Roboto', Helvetica, sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
